@@ -1,0 +1,60 @@
+category,keyword,weight
+Fees & Charges,fee,2
+Fees & Charges,charge,2
+Fees & Charges,charged,2
+Fees & Charges,billed,2
+Fees & Charges,penalty,2
+Fees & Charges,interest rate,2
+Fees & Charges,costs,1
+Fees & Charges,statement,1
+Delays & Processing,pending,2
+Delays & Processing,delayed,2
+Delays & Processing,weeks,1
+Delays & Processing,waiting,2
+Delays & Processing,outstanding,2
+Delays & Processing,not arrived,2
+Delays & Processing,process,1
+Delays & Processing,stuck,2
+Delays & Processing,taking far longer,2
+Delays & Processing,dragged on,2
+Fraud & Scams,fraud,3
+Fraud & Scams,scam,3
+Fraud & Scams,fraudster,3
+Fraud & Scams,unauthorised,3
+Fraud & Scams,did not authorise,3
+Fraud & Scams,cloned,3
+Fraud & Scams,stolen,2
+Fraud & Scams,fake,2
+Fraud & Scams,do not recognise,2
+Fraud & Scams,tricked,2
+Mis-selling,sold,2
+Mis-selling,advice,2
+Mis-selling,adviser,2
+Mis-selling,misled,3
+Mis-selling,not suitable,3
+Mis-selling,risks,2
+Mis-selling,promised,1
+Mis-selling,guaranteed,2
+Mis-selling,salesperson,2
+Mis-selling,insurance,1
+Mis-selling,policy,1
+Customer Service,rude,3
+Customer Service,on hold,3
+Customer Service,no one took ownership,2
+Customer Service,callback,2
+Customer Service,unhelpful,2
+Customer Service,responded,2
+Customer Service,webchat,2
+Customer Service,staff,1
+Customer Service,advisor,1
+Customer Service,treated badly,3
+Account Access,log in,3
+Account Access,login,3
+Account Access,locked,3
+Account Access,password,3
+Account Access,sign in,3
+Account Access,app,1
+Account Access,reset,2
+Account Access,access,1
+Account Access,two factor,3
+Account Access,crashes,2
