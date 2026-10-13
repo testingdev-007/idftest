@@ -1,0 +1,901 @@
+complaint_id,issue_type
+C0001,I was told this policy covered me but my claim was rejected
+C0002,I was told this policy covered me but my claim was rejected
+C0003,The salesperson pushed me into a plan I did not need
+C0004,It has taken six weeks to process my claim and nobody has updated me
+C0005,My mortgage switch is taking far longer than you said it would
+C0006,The app crashes every time I try to open my statements
+C0007,The brochure said guaranteed returns and my money has lost value
+C0008,I asked for a callback and it never happened
+C0009,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0010,Someone has made payments from my account that I did not authorise
+C0011,I was tricked into moving savings to a safe account that was not safe
+C0012,I asked for a callback and it never happened
+C0013,A late payment fee appeared and I want it refunded
+C0014,The complaints handler was unhelpful and talked over me
+C0015,Nobody explained the foreign transaction charges before my holiday
+C0016,The adviser did not explain the risks of the investment
+C0017,Two factor codes are not being sent to my phone
+C0018,A late payment fee appeared and I want it refunded
+C0019,The branch manager would not listen to my concerns
+C0020,The payment still has not arrived in my account
+C0021,My application has been stuck for weeks with no progress
+C0022,"Vague complaint, no specific issue"
+C0023,I sent the form twice and it seems to have been lost in the system
+C0024,The salesperson pushed me into a plan I did not need
+C0025,A fake text message led me to a website and my money disappeared
+C0026,There is an unexpected charge on my statement of £X
+C0027,The terms were very different from what I was promised at the time of sale
+C0028,It has taken six weeks to process my claim and nobody has updated me
+C0029,The app crashes every time I try to open my statements
+C0030,My identity was stolen and a loan was taken out in my name
+C0031,"Vague complaint, no specific issue"
+C0032,The webchat agent ended the conversation without solving anything
+C0033,The adviser did not explain the risks of the investment
+C0034,A late payment fee appeared and I want it refunded
+C0035,The closure of my old account has dragged on for months
+C0036,The webchat agent ended the conversation without solving anything
+C0037,"Vague complaint, no specific issue"
+C0038,My card reader stopped working and I cannot approve payments
+C0039,I spent an hour on hold and then the call was cut off
+C0040,The webchat agent ended the conversation without solving anything
+C0041,My transfer has been pending for over a week
+C0042,Your advisor gave me different answers on two separate calls
+C0043,I was told this policy covered me but my claim was rejected
+C0044,A late payment fee appeared and I want it refunded
+C0045,The fraud team closed my case without investigating properly
+C0046,I was hit with a penalty charge for a payment I made on time
+C0047,The complaints handler was unhelpful and talked over me
+C0048,"Vague complaint, no specific issue"
+C0049,My account was frozen and I cannot get in to move money
+C0050,The app crashes every time I try to open my statements
+C0051,Nobody explained the foreign transaction charges before my holiday
+C0052,It has taken six weeks to process my claim and nobody has updated me
+C0053,You promised the money within three working days and it is still outstanding
+C0054,The brochure said guaranteed returns and my money has lost value
+C0055,I was tricked into moving savings to a safe account that was not safe
+C0056,You promised the money within three working days and it is still outstanding
+C0057,The pension transfer advice I received was poor and I have lost out
+C0058,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0059,The account maintenance fee was taken twice this month
+C0060,I feel I was treated badly because of my age
+C0061,I asked for a callback and it never happened
+C0062,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0063,The account maintenance fee was taken twice this month
+C0064,The website will not let me register for online access
+C0065,The password reset keeps failing and I am locked out
+C0066,The password reset keeps failing and I am locked out
+C0067,A person pretending to be from your bank phoned me and I gave them details
+C0068,I was tricked into moving savings to a safe account that was not safe
+C0069,I was misled about what the insurance actually included
+C0070,There are transactions on my card I do not recognise
+C0071,Nobody explained the foreign transaction charges before my holiday
+C0072,I feel I was treated badly because of my age
+C0073,I was sold a product that was not suitable for my circumstances
+C0074,I was sold a product that was not suitable for my circumstances
+C0075,The pension transfer advice I received was poor and I have lost out
+C0076,I am unable to access my account to see my balance
+C0077,My online banking is locked and the reset link never arrives
+C0078,My application has been stuck for weeks with no progress
+C0079,I was misled about what the insurance actually included
+C0080,Nobody has responded to my emails despite three reminders
+C0081,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0082,The fraud team closed my case without investigating properly
+C0083,"Vague complaint, no specific issue"
+C0084,The paperwork was submitted a month ago and I am still waiting
+C0085,The password reset keeps failing and I am locked out
+C0086,The branch manager would not listen to my concerns
+C0087,The app crashes every time I try to open my statements
+C0088,I was misled about what the insurance actually included
+C0089,My online banking is locked and the reset link never arrives
+C0090,Someone has made payments from my account that I did not authorise
+C0091,I keep getting an error message when I sign in
+C0092,I keep getting an error message when I sign in
+C0093,A late payment fee appeared and I want it refunded
+C0094,The costs keep creeping up and my balance is lower than it should be
+C0095,I keep getting an error message when I sign in
+C0096,My mortgage switch is taking far longer than you said it would
+C0097,There are transactions on my card I do not recognise
+C0098,The app crashes every time I try to open my statements
+C0099,A person pretending to be from your bank phoned me and I gave them details
+C0100,The salesperson pushed me into a plan I did not need
+C0101,I was passed between four departments and no one took ownership
+C0102,A late payment fee appeared and I want it refunded
+C0103,Nobody explained the foreign transaction charges before my holiday
+C0104,The password reset keeps failing and I am locked out
+C0105,The fraud team closed my case without investigating properly
+C0106,The costs keep creeping up and my balance is lower than it should be
+C0107,The webchat agent ended the conversation without solving anything
+C0108,Nobody checked whether I could afford the credit agreement
+C0109,My mortgage switch is taking far longer than you said it would
+C0110,A fake text message led me to a website and my money disappeared
+C0111,I reported the unauthorised payment but you refused to reimburse me
+C0112,My card reader stopped working and I cannot approve payments
+C0113,The terms were very different from what I was promised at the time of sale
+C0114,I am unable to access my account to see my balance
+C0115,The closure of my old account has dragged on for months
+C0116,Two factor codes are not being sent to my phone
+C0117,I have been billed an annual fee I never agreed to
+C0118,I asked for a callback and it never happened
+C0119,The webchat agent ended the conversation without solving anything
+C0120,I was told this policy covered me but my claim was rejected
+C0121,Nobody explained the foreign transaction charges before my holiday
+C0122,I spent an hour on hold and then the call was cut off
+C0123,The direct debit setup was delayed and I missed a bill because of it
+C0124,The closure of my old account has dragged on for months
+C0125,There are transactions on my card I do not recognise
+C0126,There is an unexpected charge on my statement of £X
+C0127,It has taken six weeks to process my claim and nobody has updated me
+C0128,The adviser did not explain the risks of the investment
+C0129,"Vague complaint, no specific issue"
+C0130,I was tricked into moving savings to a safe account that was not safe
+C0131,The direct debit setup was delayed and I missed a bill because of it
+C0132,I was passed between four departments and no one took ownership
+C0133,My card reader stopped working and I cannot approve payments
+C0134,The pension transfer advice I received was poor and I have lost out
+C0135,I was tricked into moving savings to a safe account that was not safe
+C0136,I was hit with a penalty charge for a payment I made on time
+C0137,I think I was the victim of a scam and sent money to a fraudster
+C0138,The fraud team closed my case without investigating properly
+C0139,The brochure said guaranteed returns and my money has lost value
+C0140,I feel I was treated badly because of my age
+C0141,The salesperson pushed me into a plan I did not need
+C0142,There is an unexpected charge on my statement of £X
+C0143,Your advisor gave me different answers on two separate calls
+C0144,I spent an hour on hold and then the call was cut off
+C0145,The app crashes every time I try to open my statements
+C0146,I was charged a monthly fee that nobody told me about
+C0147,It has taken six weeks to process my claim and nobody has updated me
+C0148,Nobody checked whether I could afford the credit agreement
+C0149,My account was frozen and I cannot get in to move money
+C0150,I was misled about what the insurance actually included
+C0151,I was hit with a penalty charge for a payment I made on time
+C0152,I feel I was treated badly because of my age
+C0153,My card reader stopped working and I cannot approve payments
+C0154,My account was frozen and I cannot get in to move money
+C0155,The closure of my old account has dragged on for months
+C0156,My card was cloned and used abroad
+C0157,The app crashes every time I try to open my statements
+C0158,"Vague complaint, no specific issue"
+C0159,The webchat agent ended the conversation without solving anything
+C0160,"Vague complaint, no specific issue"
+C0161,I spent an hour on hold and then the call was cut off
+C0162,I keep getting an error message when I sign in
+C0163,You promised the money within three working days and it is still outstanding
+C0164,"Vague complaint, no specific issue"
+C0165,The webchat agent ended the conversation without solving anything
+C0166,I was tricked into moving savings to a safe account that was not safe
+C0167,Someone has made payments from my account that I did not authorise
+C0168,My card was cloned and used abroad
+C0169,The paperwork was submitted a month ago and I am still waiting
+C0170,I was hit with a penalty charge for a payment I made on time
+C0171,I cannot log in to the mobile app since the update
+C0172,I was told this policy covered me but my claim was rejected
+C0173,My mortgage switch is taking far longer than you said it would
+C0174,"Vague complaint, no specific issue"
+C0175,Nobody explained the foreign transaction charges before my holiday
+C0176,There are transactions on my card I do not recognise
+C0177,The app crashes every time I try to open my statements
+C0178,I was told this policy covered me but my claim was rejected
+C0179,"Vague complaint, no specific issue"
+C0180,My card reader stopped working and I cannot approve payments
+C0181,I keep getting an error message when I sign in
+C0182,I have been billed an annual fee I never agreed to
+C0183,Someone has made payments from my account that I did not authorise
+C0184,I cannot log in to the mobile app since the update
+C0185,The website will not let me register for online access
+C0186,The costs keep creeping up and my balance is lower than it should be
+C0187,The salesperson pushed me into a plan I did not need
+C0188,Nobody explained the foreign transaction charges before my holiday
+C0189,A late payment fee appeared and I want it refunded
+C0190,My account was frozen and I cannot get in to move money
+C0191,I was told this policy covered me but my claim was rejected
+C0192,A late payment fee appeared and I want it refunded
+C0193,I was advised to take out cover that duplicates what I already had
+C0194,My application has been stuck for weeks with no progress
+C0195,The staff member was rude and dismissive when I called
+C0196,The staff member was rude and dismissive when I called
+C0197,My mortgage switch is taking far longer than you said it would
+C0198,The branch manager would not listen to my concerns
+C0199,Someone has made payments from my account that I did not authorise
+C0200,The complaints handler was unhelpful and talked over me
+C0201,I was misled about what the insurance actually included
+C0202,A person pretending to be from your bank phoned me and I gave them details
+C0203,The website will not let me register for online access
+C0204,"Vague complaint, no specific issue"
+C0205,The password reset keeps failing and I am locked out
+C0206,Nobody checked whether I could afford the credit agreement
+C0207,Your advisor gave me different answers on two separate calls
+C0208,Two factor codes are not being sent to my phone
+C0209,Someone has made payments from my account that I did not authorise
+C0210,My application has been stuck for weeks with no progress
+C0211,I think I was the victim of a scam and sent money to a fraudster
+C0212,"Vague complaint, no specific issue"
+C0213,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0214,The complaints handler was unhelpful and talked over me
+C0215,The app crashes every time I try to open my statements
+C0216,The adviser did not explain the risks of the investment
+C0217,My card reader stopped working and I cannot approve payments
+C0218,I asked for a callback and it never happened
+C0219,My online banking is locked and the reset link never arrives
+C0220,My account was frozen and I cannot get in to move money
+C0221,The pension transfer advice I received was poor and I have lost out
+C0222,I was hit with a penalty charge for a payment I made on time
+C0223,The pension transfer advice I received was poor and I have lost out
+C0224,My application has been stuck for weeks with no progress
+C0225,It has taken six weeks to process my claim and nobody has updated me
+C0226,A late payment fee appeared and I want it refunded
+C0227,My mortgage switch is taking far longer than you said it would
+C0228,The pension transfer advice I received was poor and I have lost out
+C0229,You promised the money within three working days and it is still outstanding
+C0230,The staff member was rude and dismissive when I called
+C0231,The website will not let me register for online access
+C0232,The paperwork was submitted a month ago and I am still waiting
+C0233,The account maintenance fee was taken twice this month
+C0234,I reported the unauthorised payment but you refused to reimburse me
+C0235,My card reader stopped working and I cannot approve payments
+C0236,A late payment fee appeared and I want it refunded
+C0237,"Vague complaint, no specific issue"
+C0238,I sent the form twice and it seems to have been lost in the system
+C0239,I sent the form twice and it seems to have been lost in the system
+C0240,The fraud team closed my case without investigating properly
+C0241,My application has been stuck for weeks with no progress
+C0242,The paperwork was submitted a month ago and I am still waiting
+C0243,The salesperson pushed me into a plan I did not need
+C0244,A late payment fee appeared and I want it refunded
+C0245,The app crashes every time I try to open my statements
+C0246,I feel I was treated badly because of my age
+C0247,My mortgage switch is taking far longer than you said it would
+C0248,The branch manager would not listen to my concerns
+C0249,My card was cloned and used abroad
+C0250,The account maintenance fee was taken twice this month
+C0251,A fake text message led me to a website and my money disappeared
+C0252,The payment still has not arrived in my account
+C0253,The branch manager would not listen to my concerns
+C0254,A late payment fee appeared and I want it refunded
+C0255,The terms were very different from what I was promised at the time of sale
+C0256,My transfer has been pending for over a week
+C0257,My identity was stolen and a loan was taken out in my name
+C0258,It has taken six weeks to process my claim and nobody has updated me
+C0259,There are transactions on my card I do not recognise
+C0260,The staff member was rude and dismissive when I called
+C0261,A fake text message led me to a website and my money disappeared
+C0262,I asked for a callback and it never happened
+C0263,My account was frozen and I cannot get in to move money
+C0264,The password reset keeps failing and I am locked out
+C0265,You promised the money within three working days and it is still outstanding
+C0266,I was tricked into moving savings to a safe account that was not safe
+C0267,I think I was the victim of a scam and sent money to a fraudster
+C0268,I spent an hour on hold and then the call was cut off
+C0269,I was tricked into moving savings to a safe account that was not safe
+C0270,Two factor codes are not being sent to my phone
+C0271,My identity was stolen and a loan was taken out in my name
+C0272,There are transactions on my card I do not recognise
+C0273,I feel I was treated badly because of my age
+C0274,I am unable to access my account to see my balance
+C0275,"Vague complaint, no specific issue"
+C0276,I am unable to access my account to see my balance
+C0277,"Vague complaint, no specific issue"
+C0278,I reported the unauthorised payment but you refused to reimburse me
+C0279,I think I was the victim of a scam and sent money to a fraudster
+C0280,I was told this policy covered me but my claim was rejected
+C0281,The brochure said guaranteed returns and my money has lost value
+C0282,I am unable to access my account to see my balance
+C0283,You promised the money within three working days and it is still outstanding
+C0284,There is an unexpected charge on my statement of £X
+C0285,I was tricked into moving savings to a safe account that was not safe
+C0286,The adviser did not explain the risks of the investment
+C0287,My online banking is locked and the reset link never arrives
+C0288,Nobody has responded to my emails despite three reminders
+C0289,It has taken six weeks to process my claim and nobody has updated me
+C0290,The direct debit setup was delayed and I missed a bill because of it
+C0291,I was advised to take out cover that duplicates what I already had
+C0292,Your advisor gave me different answers on two separate calls
+C0293,I have been billed an annual fee I never agreed to
+C0294,I was told this policy covered me but my claim was rejected
+C0295,I cannot log in to the mobile app since the update
+C0296,A person pretending to be from your bank phoned me and I gave them details
+C0297,My identity was stolen and a loan was taken out in my name
+C0298,The complaints handler was unhelpful and talked over me
+C0299,I was passed between four departments and no one took ownership
+C0300,A fake text message led me to a website and my money disappeared
+C0301,The paperwork was submitted a month ago and I am still waiting
+C0302,Your advisor gave me different answers on two separate calls
+C0303,The paperwork was submitted a month ago and I am still waiting
+C0304,The pension transfer advice I received was poor and I have lost out
+C0305,The complaints handler was unhelpful and talked over me
+C0306,I was charged a monthly fee that nobody told me about
+C0307,"Vague complaint, no specific issue"
+C0308,The payment still has not arrived in my account
+C0309,My card reader stopped working and I cannot approve payments
+C0310,The pension transfer advice I received was poor and I have lost out
+C0311,You took an overdraft fee even though I was within my limit
+C0312,The webchat agent ended the conversation without solving anything
+C0313,Nobody explained the foreign transaction charges before my holiday
+C0314,You took an overdraft fee even though I was within my limit
+C0315,The fraud team closed my case without investigating properly
+C0316,I was advised to take out cover that duplicates what I already had
+C0317,The complaints handler was unhelpful and talked over me
+C0318,My application has been stuck for weeks with no progress
+C0319,I was sold a product that was not suitable for my circumstances
+C0320,I think I was the victim of a scam and sent money to a fraudster
+C0321,The pension transfer advice I received was poor and I have lost out
+C0322,I feel I was treated badly because of my age
+C0323,I was advised to take out cover that duplicates what I already had
+C0324,The fraud team closed my case without investigating properly
+C0325,I was advised to take out cover that duplicates what I already had
+C0326,My identity was stolen and a loan was taken out in my name
+C0327,The direct debit setup was delayed and I missed a bill because of it
+C0328,I was passed between four departments and no one took ownership
+C0329,The fraud team closed my case without investigating properly
+C0330,I have been billed an annual fee I never agreed to
+C0331,The complaints handler was unhelpful and talked over me
+C0332,The pension transfer advice I received was poor and I have lost out
+C0333,I was sold a product that was not suitable for my circumstances
+C0334,"Vague complaint, no specific issue"
+C0335,I feel I was treated badly because of my age
+C0336,Nobody has responded to my emails despite three reminders
+C0337,I was passed between four departments and no one took ownership
+C0338,My identity was stolen and a loan was taken out in my name
+C0339,My identity was stolen and a loan was taken out in my name
+C0340,My mortgage switch is taking far longer than you said it would
+C0341,My card reader stopped working and I cannot approve payments
+C0342,I was advised to take out cover that duplicates what I already had
+C0343,The complaints handler was unhelpful and talked over me
+C0344,The terms were very different from what I was promised at the time of sale
+C0345,There is an unexpected charge on my statement of £X
+C0346,My card reader stopped working and I cannot approve payments
+C0347,Your advisor gave me different answers on two separate calls
+C0348,The adviser did not explain the risks of the investment
+C0349,The account maintenance fee was taken twice this month
+C0350,The fraud team closed my case without investigating properly
+C0351,I have been billed an annual fee I never agreed to
+C0352,The payment still has not arrived in my account
+C0353,"Vague complaint, no specific issue"
+C0354,The website will not let me register for online access
+C0355,Nobody explained the foreign transaction charges before my holiday
+C0356,Nobody has responded to my emails despite three reminders
+C0357,I feel I was treated badly because of my age
+C0358,My online banking is locked and the reset link never arrives
+C0359,The costs keep creeping up and my balance is lower than it should be
+C0360,I was told this policy covered me but my claim was rejected
+C0361,My card reader stopped working and I cannot approve payments
+C0362,I reported the unauthorised payment but you refused to reimburse me
+C0363,The direct debit setup was delayed and I missed a bill because of it
+C0364,The webchat agent ended the conversation without solving anything
+C0365,My application has been stuck for weeks with no progress
+C0366,The direct debit setup was delayed and I missed a bill because of it
+C0367,It has taken six weeks to process my claim and nobody has updated me
+C0368,Two factor codes are not being sent to my phone
+C0369,My online banking is locked and the reset link never arrives
+C0370,I am unable to access my account to see my balance
+C0371,The salesperson pushed me into a plan I did not need
+C0372,I was charged a monthly fee that nobody told me about
+C0373,I was hit with a penalty charge for a payment I made on time
+C0374,I asked for a callback and it never happened
+C0375,"Vague complaint, no specific issue"
+C0376,A late payment fee appeared and I want it refunded
+C0377,I was tricked into moving savings to a safe account that was not safe
+C0378,I was advised to take out cover that duplicates what I already had
+C0379,I was told this policy covered me but my claim was rejected
+C0380,You took an overdraft fee even though I was within my limit
+C0381,"Vague complaint, no specific issue"
+C0382,The password reset keeps failing and I am locked out
+C0383,I was charged a monthly fee that nobody told me about
+C0384,My application has been stuck for weeks with no progress
+C0385,I feel I was treated badly because of my age
+C0386,I think I was the victim of a scam and sent money to a fraudster
+C0387,I was misled about what the insurance actually included
+C0388,The payment still has not arrived in my account
+C0389,Your advisor gave me different answers on two separate calls
+C0390,The staff member was rude and dismissive when I called
+C0391,I was tricked into moving savings to a safe account that was not safe
+C0392,"Vague complaint, no specific issue"
+C0393,My card reader stopped working and I cannot approve payments
+C0394,You took an overdraft fee even though I was within my limit
+C0395,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0396,A late payment fee appeared and I want it refunded
+C0397,The complaints handler was unhelpful and talked over me
+C0398,The webchat agent ended the conversation without solving anything
+C0399,The staff member was rude and dismissive when I called
+C0400,I was advised to take out cover that duplicates what I already had
+C0401,Your advisor gave me different answers on two separate calls
+C0402,My card was cloned and used abroad
+C0403,The branch manager would not listen to my concerns
+C0404,The direct debit setup was delayed and I missed a bill because of it
+C0405,My card reader stopped working and I cannot approve payments
+C0406,The fraud team closed my case without investigating properly
+C0407,The adviser did not explain the risks of the investment
+C0408,The direct debit setup was delayed and I missed a bill because of it
+C0409,My identity was stolen and a loan was taken out in my name
+C0410,The brochure said guaranteed returns and my money has lost value
+C0411,The payment still has not arrived in my account
+C0412,The salesperson pushed me into a plan I did not need
+C0413,There are transactions on my card I do not recognise
+C0414,The complaints handler was unhelpful and talked over me
+C0415,I sent the form twice and it seems to have been lost in the system
+C0416,I was passed between four departments and no one took ownership
+C0417,You took an overdraft fee even though I was within my limit
+C0418,I keep getting an error message when I sign in
+C0419,I keep getting an error message when I sign in
+C0420,I feel I was treated badly because of my age
+C0421,Nobody explained the foreign transaction charges before my holiday
+C0422,Nobody has responded to my emails despite three reminders
+C0423,The closure of my old account has dragged on for months
+C0424,A fake text message led me to a website and my money disappeared
+C0425,I was tricked into moving savings to a safe account that was not safe
+C0426,Two factor codes are not being sent to my phone
+C0427,The paperwork was submitted a month ago and I am still waiting
+C0428,The brochure said guaranteed returns and my money has lost value
+C0429,I keep getting an error message when I sign in
+C0430,The terms were very different from what I was promised at the time of sale
+C0431,I sent the form twice and it seems to have been lost in the system
+C0432,I have been billed an annual fee I never agreed to
+C0433,I was advised to take out cover that duplicates what I already had
+C0434,My transfer has been pending for over a week
+C0435,A person pretending to be from your bank phoned me and I gave them details
+C0436,It has taken six weeks to process my claim and nobody has updated me
+C0437,I was told this policy covered me but my claim was rejected
+C0438,The brochure said guaranteed returns and my money has lost value
+C0439,"Vague complaint, no specific issue"
+C0440,The payment still has not arrived in my account
+C0441,Two factor codes are not being sent to my phone
+C0442,I was told this policy covered me but my claim was rejected
+C0443,There is an unexpected charge on my statement of £X
+C0444,Someone has made payments from my account that I did not authorise
+C0445,The paperwork was submitted a month ago and I am still waiting
+C0446,I asked for a callback and it never happened
+C0447,I sent the form twice and it seems to have been lost in the system
+C0448,My mortgage switch is taking far longer than you said it would
+C0449,My transfer has been pending for over a week
+C0450,Your advisor gave me different answers on two separate calls
+C0451,The complaints handler was unhelpful and talked over me
+C0452,I was charged a monthly fee that nobody told me about
+C0453,I feel I was treated badly because of my age
+C0454,Two factor codes are not being sent to my phone
+C0455,A fake text message led me to a website and my money disappeared
+C0456,A late payment fee appeared and I want it refunded
+C0457,I keep getting an error message when I sign in
+C0458,The salesperson pushed me into a plan I did not need
+C0459,A person pretending to be from your bank phoned me and I gave them details
+C0460,I was charged a monthly fee that nobody told me about
+C0461,I was tricked into moving savings to a safe account that was not safe
+C0462,I cannot log in to the mobile app since the update
+C0463,Nobody has responded to my emails despite three reminders
+C0464,A fake text message led me to a website and my money disappeared
+C0465,"Vague complaint, no specific issue"
+C0466,I was misled about what the insurance actually included
+C0467,I sent the form twice and it seems to have been lost in the system
+C0468,There is an unexpected charge on my statement of £X
+C0469,The account maintenance fee was taken twice this month
+C0470,The website will not let me register for online access
+C0471,Your advisor gave me different answers on two separate calls
+C0472,The payment still has not arrived in my account
+C0473,Two factor codes are not being sent to my phone
+C0474,I think I was the victim of a scam and sent money to a fraudster
+C0475,The website will not let me register for online access
+C0476,My card was cloned and used abroad
+C0477,My card was cloned and used abroad
+C0478,I think I was the victim of a scam and sent money to a fraudster
+C0479,The salesperson pushed me into a plan I did not need
+C0480,I was hit with a penalty charge for a payment I made on time
+C0481,The app crashes every time I try to open my statements
+C0482,The paperwork was submitted a month ago and I am still waiting
+C0483,"Vague complaint, no specific issue"
+C0484,I am unable to access my account to see my balance
+C0485,A late payment fee appeared and I want it refunded
+C0486,My card reader stopped working and I cannot approve payments
+C0487,My card was cloned and used abroad
+C0488,The adviser did not explain the risks of the investment
+C0489,I was tricked into moving savings to a safe account that was not safe
+C0490,I sent the form twice and it seems to have been lost in the system
+C0491,My application has been stuck for weeks with no progress
+C0492,The complaints handler was unhelpful and talked over me
+C0493,I was hit with a penalty charge for a payment I made on time
+C0494,I was misled about what the insurance actually included
+C0495,My account was frozen and I cannot get in to move money
+C0496,"Vague complaint, no specific issue"
+C0497,I was misled about what the insurance actually included
+C0498,The staff member was rude and dismissive when I called
+C0499,I was hit with a penalty charge for a payment I made on time
+C0500,The paperwork was submitted a month ago and I am still waiting
+C0501,The direct debit setup was delayed and I missed a bill because of it
+C0502,My application has been stuck for weeks with no progress
+C0503,My transfer has been pending for over a week
+C0504,The complaints handler was unhelpful and talked over me
+C0505,The direct debit setup was delayed and I missed a bill because of it
+C0506,I was advised to take out cover that duplicates what I already had
+C0507,The account maintenance fee was taken twice this month
+C0508,The fraud team closed my case without investigating properly
+C0509,"Vague complaint, no specific issue"
+C0510,Nobody has responded to my emails despite three reminders
+C0511,The complaints handler was unhelpful and talked over me
+C0512,"Vague complaint, no specific issue"
+C0513,I think I was the victim of a scam and sent money to a fraudster
+C0514,I was tricked into moving savings to a safe account that was not safe
+C0515,The app crashes every time I try to open my statements
+C0516,Nobody explained the foreign transaction charges before my holiday
+C0517,I think I was the victim of a scam and sent money to a fraudster
+C0518,I have been billed an annual fee I never agreed to
+C0519,The closure of my old account has dragged on for months
+C0520,The fraud team closed my case without investigating properly
+C0521,I have been billed an annual fee I never agreed to
+C0522,I reported the unauthorised payment but you refused to reimburse me
+C0523,I spent an hour on hold and then the call was cut off
+C0524,A late payment fee appeared and I want it refunded
+C0525,I was sold a product that was not suitable for my circumstances
+C0526,The payment still has not arrived in my account
+C0527,The payment still has not arrived in my account
+C0528,My card reader stopped working and I cannot approve payments
+C0529,I was sold a product that was not suitable for my circumstances
+C0530,The website will not let me register for online access
+C0531,My card reader stopped working and I cannot approve payments
+C0532,I keep getting an error message when I sign in
+C0533,A person pretending to be from your bank phoned me and I gave them details
+C0534,Your advisor gave me different answers on two separate calls
+C0535,I was charged a monthly fee that nobody told me about
+C0536,I reported the unauthorised payment but you refused to reimburse me
+C0537,My identity was stolen and a loan was taken out in my name
+C0538,The complaints handler was unhelpful and talked over me
+C0539,A person pretending to be from your bank phoned me and I gave them details
+C0540,Nobody has responded to my emails despite three reminders
+C0541,I am unable to access my account to see my balance
+C0542,I have been billed an annual fee I never agreed to
+C0543,A late payment fee appeared and I want it refunded
+C0544,There is an unexpected charge on my statement of £X
+C0545,The fraud team closed my case without investigating properly
+C0546,The closure of my old account has dragged on for months
+C0547,I think I was the victim of a scam and sent money to a fraudster
+C0548,I think I was the victim of a scam and sent money to a fraudster
+C0549,I was misled about what the insurance actually included
+C0550,I sent the form twice and it seems to have been lost in the system
+C0551,My identity was stolen and a loan was taken out in my name
+C0552,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0553,Nobody checked whether I could afford the credit agreement
+C0554,My application has been stuck for weeks with no progress
+C0555,The webchat agent ended the conversation without solving anything
+C0556,Nobody checked whether I could afford the credit agreement
+C0557,"Vague complaint, no specific issue"
+C0558,The terms were very different from what I was promised at the time of sale
+C0559,I was passed between four departments and no one took ownership
+C0560,The adviser did not explain the risks of the investment
+C0561,I reported the unauthorised payment but you refused to reimburse me
+C0562,I asked for a callback and it never happened
+C0563,The branch manager would not listen to my concerns
+C0564,My account was frozen and I cannot get in to move money
+C0565,I asked for a callback and it never happened
+C0566,The paperwork was submitted a month ago and I am still waiting
+C0567,Your advisor gave me different answers on two separate calls
+C0568,I sent the form twice and it seems to have been lost in the system
+C0569,The staff member was rude and dismissive when I called
+C0570,"Vague complaint, no specific issue"
+C0571,The terms were very different from what I was promised at the time of sale
+C0572,Nobody checked whether I could afford the credit agreement
+C0573,A fake text message led me to a website and my money disappeared
+C0574,I think I was the victim of a scam and sent money to a fraudster
+C0575,The salesperson pushed me into a plan I did not need
+C0576,My identity was stolen and a loan was taken out in my name
+C0577,The webchat agent ended the conversation without solving anything
+C0578,A person pretending to be from your bank phoned me and I gave them details
+C0579,I was hit with a penalty charge for a payment I made on time
+C0580,I have been billed an annual fee I never agreed to
+C0581,I was misled about what the insurance actually included
+C0582,The salesperson pushed me into a plan I did not need
+C0583,I reported the unauthorised payment but you refused to reimburse me
+C0584,Nobody checked whether I could afford the credit agreement
+C0585,My mortgage switch is taking far longer than you said it would
+C0586,I spent an hour on hold and then the call was cut off
+C0587,I was sold a product that was not suitable for my circumstances
+C0588,I asked for a callback and it never happened
+C0589,A person pretending to be from your bank phoned me and I gave them details
+C0590,The payment still has not arrived in my account
+C0591,I spent an hour on hold and then the call was cut off
+C0592,My card reader stopped working and I cannot approve payments
+C0593,The webchat agent ended the conversation without solving anything
+C0594,My account was frozen and I cannot get in to move money
+C0595,The branch manager would not listen to my concerns
+C0596,The fraud team closed my case without investigating properly
+C0597,I sent the form twice and it seems to have been lost in the system
+C0598,I think I was the victim of a scam and sent money to a fraudster
+C0599,A person pretending to be from your bank phoned me and I gave them details
+C0600,I feel I was treated badly because of my age
+C0601,I was charged a monthly fee that nobody told me about
+C0602,I was sold a product that was not suitable for my circumstances
+C0603,I feel I was treated badly because of my age
+C0604,My account was frozen and I cannot get in to move money
+C0605,I cannot log in to the mobile app since the update
+C0606,A late payment fee appeared and I want it refunded
+C0607,The costs keep creeping up and my balance is lower than it should be
+C0608,I sent the form twice and it seems to have been lost in the system
+C0609,The terms were very different from what I was promised at the time of sale
+C0610,The pension transfer advice I received was poor and I have lost out
+C0611,The payment still has not arrived in my account
+C0612,The complaints handler was unhelpful and talked over me
+C0613,I asked for a callback and it never happened
+C0614,The pension transfer advice I received was poor and I have lost out
+C0615,My transfer has been pending for over a week
+C0616,Your advisor gave me different answers on two separate calls
+C0617,The terms were very different from what I was promised at the time of sale
+C0618,My card reader stopped working and I cannot approve payments
+C0619,My identity was stolen and a loan was taken out in my name
+C0620,I feel I was treated badly because of my age
+C0621,I cannot log in to the mobile app since the update
+C0622,The app crashes every time I try to open my statements
+C0623,A person pretending to be from your bank phoned me and I gave them details
+C0624,I cannot log in to the mobile app since the update
+C0625,"Vague complaint, no specific issue"
+C0626,The website will not let me register for online access
+C0627,The payment still has not arrived in my account
+C0628,I was sold a product that was not suitable for my circumstances
+C0629,The webchat agent ended the conversation without solving anything
+C0630,I sent the form twice and it seems to have been lost in the system
+C0631,There is an unexpected charge on my statement of £X
+C0632,A fake text message led me to a website and my money disappeared
+C0633,The webchat agent ended the conversation without solving anything
+C0634,The paperwork was submitted a month ago and I am still waiting
+C0635,I was tricked into moving savings to a safe account that was not safe
+C0636,The direct debit setup was delayed and I missed a bill because of it
+C0637,There are transactions on my card I do not recognise
+C0638,Nobody explained the foreign transaction charges before my holiday
+C0639,You promised the money within three working days and it is still outstanding
+C0640,Two factor codes are not being sent to my phone
+C0641,"Vague complaint, no specific issue"
+C0642,Someone has made payments from my account that I did not authorise
+C0643,I was tricked into moving savings to a safe account that was not safe
+C0644,You took an overdraft fee even though I was within my limit
+C0645,My card reader stopped working and I cannot approve payments
+C0646,Nobody explained the foreign transaction charges before my holiday
+C0647,The website will not let me register for online access
+C0648,A fake text message led me to a website and my money disappeared
+C0649,I think I was the victim of a scam and sent money to a fraudster
+C0650,I was charged a monthly fee that nobody told me about
+C0651,The password reset keeps failing and I am locked out
+C0652,I keep getting an error message when I sign in
+C0653,My card reader stopped working and I cannot approve payments
+C0654,My card was cloned and used abroad
+C0655,My account was frozen and I cannot get in to move money
+C0656,The account maintenance fee was taken twice this month
+C0657,The payment still has not arrived in my account
+C0658,I was tricked into moving savings to a safe account that was not safe
+C0659,My application has been stuck for weeks with no progress
+C0660,I feel I was treated badly because of my age
+C0661,"Vague complaint, no specific issue"
+C0662,The paperwork was submitted a month ago and I am still waiting
+C0663,I was told this policy covered me but my claim was rejected
+C0664,My card reader stopped working and I cannot approve payments
+C0665,The webchat agent ended the conversation without solving anything
+C0666,I was told this policy covered me but my claim was rejected
+C0667,The direct debit setup was delayed and I missed a bill because of it
+C0668,I reported the unauthorised payment but you refused to reimburse me
+C0669,Nobody explained the foreign transaction charges before my holiday
+C0670,The brochure said guaranteed returns and my money has lost value
+C0671,A person pretending to be from your bank phoned me and I gave them details
+C0672,The costs keep creeping up and my balance is lower than it should be
+C0673,I was charged a monthly fee that nobody told me about
+C0674,The terms were very different from what I was promised at the time of sale
+C0675,The payment still has not arrived in my account
+C0676,My card reader stopped working and I cannot approve payments
+C0677,I was sold a product that was not suitable for my circumstances
+C0678,"Vague complaint, no specific issue"
+C0679,The adviser did not explain the risks of the investment
+C0680,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0681,The terms were very different from what I was promised at the time of sale
+C0682,The staff member was rude and dismissive when I called
+C0683,I think I was the victim of a scam and sent money to a fraudster
+C0684,Nobody explained the foreign transaction charges before my holiday
+C0685,I reported the unauthorised payment but you refused to reimburse me
+C0686,The direct debit setup was delayed and I missed a bill because of it
+C0687,My online banking is locked and the reset link never arrives
+C0688,The branch manager would not listen to my concerns
+C0689,I was tricked into moving savings to a safe account that was not safe
+C0690,There are transactions on my card I do not recognise
+C0691,My card was cloned and used abroad
+C0692,The closure of my old account has dragged on for months
+C0693,"Why has my interest rate gone up without notice, it is costing me more every month"
+C0694,I asked for a callback and it never happened
+C0695,I was misled about what the insurance actually included
+C0696,Nobody has responded to my emails despite three reminders
+C0697,The staff member was rude and dismissive when I called
+C0698,The fraud team closed my case without investigating properly
+C0699,The brochure said guaranteed returns and my money has lost value
+C0700,The adviser did not explain the risks of the investment
+C0701,You promised the money within three working days and it is still outstanding
+C0702,"Vague complaint, no specific issue"
+C0703,There is an unexpected charge on my statement of £X
+C0704,The salesperson pushed me into a plan I did not need
+C0705,My mortgage switch is taking far longer than you said it would
+C0706,Two factor codes are not being sent to my phone
+C0707,My application has been stuck for weeks with no progress
+C0708,You promised the money within three working days and it is still outstanding
+C0709,I was advised to take out cover that duplicates what I already had
+C0710,A late payment fee appeared and I want it refunded
+C0711,The pension transfer advice I received was poor and I have lost out
+C0712,The account maintenance fee was taken twice this month
+C0713,The account maintenance fee was taken twice this month
+C0714,The terms were very different from what I was promised at the time of sale
+C0715,The brochure said guaranteed returns and my money has lost value
+C0716,My application has been stuck for weeks with no progress
+C0717,Nobody has responded to my emails despite three reminders
+C0718,Nobody checked whether I could afford the credit agreement
+C0719,My transfer has been pending for over a week
+C0720,My account was frozen and I cannot get in to move money
+C0721,I am unable to access my account to see my balance
+C0722,I cannot log in to the mobile app since the update
+C0723,It has taken six weeks to process my claim and nobody has updated me
+C0724,The website will not let me register for online access
+C0725,"Vague complaint, no specific issue"
+C0726,The app crashes every time I try to open my statements
+C0727,The fraud team closed my case without investigating properly
+C0728,I spent an hour on hold and then the call was cut off
+C0729,My application has been stuck for weeks with no progress
+C0730,My transfer has been pending for over a week
+C0731,I feel I was treated badly because of my age
+C0732,My transfer has been pending for over a week
+C0733,The complaints handler was unhelpful and talked over me
+C0734,There is an unexpected charge on my statement of £X
+C0735,"Vague complaint, no specific issue"
+C0736,The account maintenance fee was taken twice this month
+C0737,The staff member was rude and dismissive when I called
+C0738,The password reset keeps failing and I am locked out
+C0739,I have been billed an annual fee I never agreed to
+C0740,I was charged a monthly fee that nobody told me about
+C0741,The closure of my old account has dragged on for months
+C0742,My account was frozen and I cannot get in to move money
+C0743,The salesperson pushed me into a plan I did not need
+C0744,I was charged a monthly fee that nobody told me about
+C0745,The webchat agent ended the conversation without solving anything
+C0746,I was advised to take out cover that duplicates what I already had
+C0747,The complaints handler was unhelpful and talked over me
+C0748,"Vague complaint, no specific issue"
+C0749,I was hit with a penalty charge for a payment I made on time
+C0750,The closure of my old account has dragged on for months
+C0751,I was hit with a penalty charge for a payment I made on time
+C0752,"Vague complaint, no specific issue"
+C0753,I was misled about what the insurance actually included
+C0754,The account maintenance fee was taken twice this month
+C0755,"Vague complaint, no specific issue"
+C0756,I was charged a monthly fee that nobody told me about
+C0757,The password reset keeps failing and I am locked out
+C0758,There are transactions on my card I do not recognise
+C0759,I was charged a monthly fee that nobody told me about
+C0760,Nobody explained the foreign transaction charges before my holiday
+C0761,"Vague complaint, no specific issue"
+C0762,I have been billed an annual fee I never agreed to
+C0763,The fraud team closed my case without investigating properly
+C0764,The payment still has not arrived in my account
+C0765,My online banking is locked and the reset link never arrives
+C0766,There is an unexpected charge on my statement of £X
+C0767,My online banking is locked and the reset link never arrives
+C0768,I have been billed an annual fee I never agreed to
+C0769,The direct debit setup was delayed and I missed a bill because of it
+C0770,You took an overdraft fee even though I was within my limit
+C0771,I cannot log in to the mobile app since the update
+C0772,I cannot log in to the mobile app since the update
+C0773,I reported the unauthorised payment but you refused to reimburse me
+C0774,The staff member was rude and dismissive when I called
+C0775,It has taken six weeks to process my claim and nobody has updated me
+C0776,I think I was the victim of a scam and sent money to a fraudster
+C0777,I was misled about what the insurance actually included
+C0778,I asked for a callback and it never happened
+C0779,I was sold a product that was not suitable for my circumstances
+C0780,I have been billed an annual fee I never agreed to
+C0781,The website will not let me register for online access
+C0782,The branch manager would not listen to my concerns
+C0783,I was tricked into moving savings to a safe account that was not safe
+C0784,Someone has made payments from my account that I did not authorise
+C0785,I was misled about what the insurance actually included
+C0786,The website will not let me register for online access
+C0787,A late payment fee appeared and I want it refunded
+C0788,Nobody explained the foreign transaction charges before my holiday
+C0789,My card reader stopped working and I cannot approve payments
+C0790,The adviser did not explain the risks of the investment
+C0791,I keep getting an error message when I sign in
+C0792,There is an unexpected charge on my statement of £X
+C0793,"Vague complaint, no specific issue"
+C0794,The staff member was rude and dismissive when I called
+C0795,I was advised to take out cover that duplicates what I already had
+C0796,The branch manager would not listen to my concerns
+C0797,I was advised to take out cover that duplicates what I already had
+C0798,The pension transfer advice I received was poor and I have lost out
+C0799,I spent an hour on hold and then the call was cut off
+C0800,I was passed between four departments and no one took ownership
+C0801,I was misled about what the insurance actually included
+C0802,The paperwork was submitted a month ago and I am still waiting
+C0803,My mortgage switch is taking far longer than you said it would
+C0804,I was sold a product that was not suitable for my circumstances
+C0805,It has taken six weeks to process my claim and nobody has updated me
+C0806,The payment still has not arrived in my account
+C0807,There is an unexpected charge on my statement of £X
+C0808,I cannot log in to the mobile app since the update
+C0809,I think I was the victim of a scam and sent money to a fraudster
+C0810,A person pretending to be from your bank phoned me and I gave them details
+C0811,I was misled about what the insurance actually included
+C0812,The website will not let me register for online access
+C0813,I was tricked into moving savings to a safe account that was not safe
+C0814,The paperwork was submitted a month ago and I am still waiting
+C0815,"Vague complaint, no specific issue"
+C0816,The account maintenance fee was taken twice this month
+C0817,I have been billed an annual fee I never agreed to
+C0818,A late payment fee appeared and I want it refunded
+C0819,The fraud team closed my case without investigating properly
+C0820,The adviser did not explain the risks of the investment
+C0821,The brochure said guaranteed returns and my money has lost value
+C0822,Nobody explained the foreign transaction charges before my holiday
+C0823,My identity was stolen and a loan was taken out in my name
+C0824,My account was frozen and I cannot get in to move money
+C0825,The staff member was rude and dismissive when I called
+C0826,I keep getting an error message when I sign in
+C0827,I sent the form twice and it seems to have been lost in the system
+C0828,I think I was the victim of a scam and sent money to a fraudster
+C0829,I am unable to access my account to see my balance
+C0830,The staff member was rude and dismissive when I called
+C0831,My card was cloned and used abroad
+C0832,I reported the unauthorised payment but you refused to reimburse me
+C0833,I was misled about what the insurance actually included
+C0834,The closure of my old account has dragged on for months
+C0835,My card reader stopped working and I cannot approve payments
+C0836,"Vague complaint, no specific issue"
+C0837,The costs keep creeping up and my balance is lower than it should be
+C0838,The password reset keeps failing and I am locked out
+C0839,The direct debit setup was delayed and I missed a bill because of it
+C0840,The password reset keeps failing and I am locked out
+C0841,I keep getting an error message when I sign in
+C0842,The direct debit setup was delayed and I missed a bill because of it
+C0843,I was advised to take out cover that duplicates what I already had
+C0844,I was hit with a penalty charge for a payment I made on time
+C0845,I spent an hour on hold and then the call was cut off
+C0846,I was advised to take out cover that duplicates what I already had
+C0847,My application has been stuck for weeks with no progress
+C0848,I sent the form twice and it seems to have been lost in the system
+C0849,A late payment fee appeared and I want it refunded
+C0850,I reported the unauthorised payment but you refused to reimburse me
+C0851,The staff member was rude and dismissive when I called
+C0852,There are transactions on my card I do not recognise
+C0853,My card was cloned and used abroad
+C0854,"Vague complaint, no specific issue"
+C0855,"Vague complaint, no specific issue"
+C0856,My transfer has been pending for over a week
+C0857,A person pretending to be from your bank phoned me and I gave them details
+C0858,There is an unexpected charge on my statement of £X
+C0859,"Vague complaint, no specific issue"
+C0860,Nobody checked whether I could afford the credit agreement
+C0861,My identity was stolen and a loan was taken out in my name
+C0862,I was charged a monthly fee that nobody told me about
+C0863,A late payment fee appeared and I want it refunded
+C0864,The app crashes every time I try to open my statements
+C0865,The closure of my old account has dragged on for months
+C0866,My application has been stuck for weeks with no progress
+C0867,Two factor codes are not being sent to my phone
+C0868,There is an unexpected charge on my statement of £X
+C0869,I was misled about what the insurance actually included
+C0870,Two factor codes are not being sent to my phone
+C0871,The pension transfer advice I received was poor and I have lost out
+C0872,There are transactions on my card I do not recognise
+C0873,My card reader stopped working and I cannot approve payments
+C0874,My account was frozen and I cannot get in to move money
+C0875,Your advisor gave me different answers on two separate calls
+C0876,The terms were very different from what I was promised at the time of sale
+C0877,I spent an hour on hold and then the call was cut off
+C0878,Nobody has responded to my emails despite three reminders
+C0879,I sent the form twice and it seems to have been lost in the system
+C0880,A person pretending to be from your bank phoned me and I gave them details
+C0881,I was misled about what the insurance actually included
+C0882,Nobody checked whether I could afford the credit agreement
+C0883,The terms were very different from what I was promised at the time of sale
+C0884,My identity was stolen and a loan was taken out in my name
+C0885,I am unable to access my account to see my balance
+C0886,Nobody has responded to my emails despite three reminders
+C0887,A late payment fee appeared and I want it refunded
+C0888,I was told this policy covered me but my claim was rejected
+C0889,It has taken six weeks to process my claim and nobody has updated me
+C0890,I am unable to access my account to see my balance
+C0891,Nobody explained the foreign transaction charges before my holiday
+C0892,I was charged a monthly fee that nobody told me about
+C0893,You promised the money within three working days and it is still outstanding
+C0894,Nobody has responded to my emails despite three reminders
+C0895,Nobody has responded to my emails despite three reminders
+C0896,The salesperson pushed me into a plan I did not need
+C0897,The payment still has not arrived in my account
+C0898,My identity was stolen and a loan was taken out in my name
+C0899,The payment still has not arrived in my account
+C0900,I spent an hour on hold and then the call was cut off
